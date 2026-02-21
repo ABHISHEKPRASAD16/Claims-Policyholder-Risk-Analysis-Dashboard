@@ -1,4 +1,4 @@
-#Insurance Claims & Policyholder Risk Analysis Dashboard
+Insurance Claims & Policyholder Risk Analysis Dashboard
 
 This project is an interactive Power BI dashboard built to analyze insurance claims data and identify risk patterns across policyholders, regions, and claim severity levels.
 
